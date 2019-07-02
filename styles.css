@@ -212,6 +212,7 @@ table td {
   padding-bottom: 4px;
   padding-left: 10px;
   padding-right: 10px;
+  background-color: #141414;
 }
 thead th {
   text-align: left;
@@ -222,6 +223,7 @@ thead th {
 .time {
   max-width:100%;
   white-space:nowrap;
+   background-color: #000;
 }
 .talk-title {
   font-weight: 500;
