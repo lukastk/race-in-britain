@@ -237,6 +237,10 @@ thead th {
 .speaker {
   font-style: italic;
 }
+.break-lunch {
+  text-align: center;
+  background-color: #080808;
+}
 
 tr {
   border-bottom: solid 2px #555;
