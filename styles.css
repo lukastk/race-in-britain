@@ -148,7 +148,7 @@ h3 {
   position: relative;
   height: 100vh;
   transform: translateZ(-1px) scale(2.01);
-  background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url(media/hackney.png);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(media/hackney.png);
   background-size:     cover;                      /* <------ */
   background-repeat:   no-repeat;
   background-position: center center;              /* optional, center the image */
