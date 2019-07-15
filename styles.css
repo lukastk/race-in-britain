@@ -94,7 +94,7 @@ h3 {
 
 .title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 22.8px;
+  font-size: 22.2px;
   position: absolute;
   top: 40%;
   left: 10%;
@@ -313,7 +313,7 @@ td:first-child {
   }
   .title {
     width: 520px;
-    font-size: 18.2px;
+    font-size: 17.7px;
   }
 }
 
@@ -323,7 +323,7 @@ td:first-child {
   }
   .title {
     width: 364px;
-    font-size: 12.7px;
+    font-size: 12.4px;
   }
 
   .consented-logo {
@@ -341,7 +341,7 @@ td:first-child {
   }
   .title {
     width: 291px;
-    font-size: 10.25px;
+    font-size: 9.9px;
   }
 }
 
@@ -351,6 +351,6 @@ td:first-child {
   }
   .title {
     width: 233px;
-    font-size: 8.1px;
+    font-size: 7.9px;
   }
 }
