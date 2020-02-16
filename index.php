@@ -14,7 +14,7 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500&display=swap" rel="stylesheet">
 
   <script>
-    /*if (location.origin != "http://localhost" && location.protocol != 'https:') {
+    if (location.origin != "http://localhost" && location.protocol != 'https:') {
      location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
     }
   </script>
