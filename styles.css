@@ -93,7 +93,7 @@ h3 {
 
 .title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1em;
+  font-size: 1.2em;
   position: absolute;
   top: 40%;
   left: 10%;
@@ -149,7 +149,7 @@ h3 {
   position: relative;
   height: 100vh;
   transform: translateZ(-1px) scale(2.01);
-  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(media/hackney.png);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6) ), url(media/hackney.png);
   background-size:     cover;                      /* <------ */
   background-repeat:   no-repeat;
   background-position: center center;              /* optional, center the image */

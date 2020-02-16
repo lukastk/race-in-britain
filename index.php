@@ -3,7 +3,7 @@
 <head>
   <title>Race in Britain 2019</title>
   <meta charset="UTF-8">
-  <meta name="description" content="Website for the 2019 Race in Britain summer school">
+  <meta name="description" content="Website for the 2020 Race in Britain summer school">
   <meta name="keywords" content="Race in Britain, Colonialism, Technology, Summer school, Race, Gender, QTPoC, Hackney, BSix, Education">
   <meta name="author" content="Lukas Kikuchi">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -13,8 +13,15 @@
   <link href="https://fonts.googleapis.com/css?family=DM+Sans&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500&display=swap" rel="stylesheet">
 
+  <meta property="og:url"           content="https://www.raceinbritain.org/" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="Race in Britain 2020" />
+  <meta property="og:description"   content="Three day summer school on race and resistance." />
+  <meta property="og:image"         content="https://www.raceinbritain.org/media/sharing-thumbnail.jpg" />
+  <meta property="og:locale" content="en_GB" />
+
   <script>
-    if (location.origin != "http://localhost" && location.protocol != 'https:') {
+    /*if (location.origin != "http://localhost" && location.protocol != 'https:') {
      location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
     }
   </script>
@@ -34,7 +41,9 @@
         <a href=".">
           <img src="media/logo.svg">
 
-          <span style="font-size: 0.895em"> A summer school hosted at the BSix Sixth Form College. 27-29 July</span>.
+          <span style="font-size: 0.895em; "> A summer school hosted at the BSix Sixth Form College. 27-29 July</span>. <br><br>
+
+          <!--<span style="font-size: 0.88em; font-weight: 500;"> Register at www.raceinbritain.org.</span>-->
         </a>
       </div>
   </div>
