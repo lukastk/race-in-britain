@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Race in Britain 2019</title>
+  <title>Race in Britain 2020</title>
   <meta charset="UTF-8">
   <meta name="description" content="Website for the 2020 Race in Britain summer school">
   <meta name="keywords" content="Race in Britain, Colonialism, Technology, Summer school, Race, Gender, QTPoC, Hackney, BSix, Education">
@@ -21,7 +21,7 @@
   <meta property="og:locale" content="en_GB" />
 
   <script>
-    /*if (location.origin != "http://localhost" && location.protocol != 'https:') {
+    if (location.origin != "http://localhost" && location.protocol != 'https:') {
      location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
     }
   </script>
