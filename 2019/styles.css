@@ -51,14 +51,15 @@ a:hover {
 }
 
 .content {
+  -webkit-box-shadow: 0px 10px 80px 80px #000000;
+  box-shadow: 0px 10px 80px 80px #000000;
+
   padding-top: 100px;
   background-color: #000;
   padding-left: 20%;
   padding-right: 20%;
   width: 60%;
   height: fit-content;
-  -webkit-box-shadow: 0px 10px 80px 80px #000000;
-  box-shadow: 0px 10px 80px 80px #000000;
 }
 
 h1 {
@@ -93,16 +94,16 @@ h3 {
 
 .title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1em;
+  font-size: 19.5px;
   position: absolute;
   top: 40%;
   left: 10%;
-  width: 30em;
+  width: 650px;
   text-align: justify;
 }
 .title img {
-  width: 30em;
-  margin-bottom: 1em;
+  width: 650px;
+  margin-bottom: 10px;
 }
 .title a {
   text-decoration: none;
@@ -159,7 +160,7 @@ h3 {
 .ContentContainer {
   display: block;
   position: relative;
-  /* background-color: white; */
+  background-color: white;
   z-index: 1;
 }
 
@@ -307,14 +308,22 @@ td:first-child {
 }
 
 @media (max-width: 700px) {
+  .title img {
+    width: 520px
+  }
   .title {
-    font-size: 1em;
+    width: 520px;
+    font-size: 15.6px;
   }
 }
 
 @media (max-width: 560px) {
+  .title img {
+    width: 364px;
+  }
   .title {
-    font-size: 0.7em;
+    width: 364px;
+    font-size: 10.9px;
   }
 
   .consented-logo {
@@ -327,13 +336,21 @@ td:first-child {
 }
 
 @media (max-width: 400px) {
+  .title img {
+    width: 291px;
+  }
   .title {
-    font-size: 0.5em;
+    width: 291px;
+    font-size: 8.7px;
   }
 }
 
 @media (max-width: 310px) {
+  .title img {
+    width: 233px;
+  }
   .title {
-    font-size: 0.3em;
+    width: 233px;
+    font-size: 7px;
   }
 }
