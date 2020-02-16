@@ -41,9 +41,10 @@
         <a href=".">
           <img src="media/logo.svg">
 
-          <span style="font-size: 0.895em; "> A summer school hosted at the BSix Sixth Form College. 27-29 July</span>. <br><br>
+          <span style="font-size: 0.895em; "> A summer school hosted at the BSix Sixth Form College. 27-29 July</span>.
 
-          <!--<span style="font-size: 0.88em; font-weight: 500;"> Register at www.raceinbritain.org.</span>-->
+          <!--<span style="font-size: 0.88em; font-weight: 500; "> A summer school hosted at the BSix Sixth Form College. 27-29 July</span>.<br><br>
+          <span style="font-size: 0.88em; font-weight: 500;"> Register at www.raceinbritain.org.</span>-->
         </a>
       </div>
   </div>
