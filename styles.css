@@ -95,14 +95,19 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.2em;
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 10%;
   width: 30em;
   text-align: justify;
 }
 .title img {
   width: 30em;
-  margin-bottom: 1em;
+  margin-bottom: 0.3em;
+}
+.subtitle{
+  font-size: 1.69em;
+  font-weight: 600;
+  letter-spacing: 0.06em;
 }
 .title a {
   text-decoration: none;
