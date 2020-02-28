@@ -68,7 +68,7 @@
 
         <img src="media/about_pic.jpg">
 
-        <p>For the third year, following our successful schools in <a target="_blank" href="https://2018.raceinbritain.org/">2018</a> and <a target="_blank" href="https://raceinbritain.org/2019">2019</a>, this summer <a target="_blank" href="https://www.consented.co.uk/">Consented Youth</a> and the <a href="https://www.raceinbritain.org/#programme">Knowledge is Power Programme</a> will be hosting a three day summer school for young people and educational practitioners from the <b>27th-29th</b> of July at BSix Sixth Form College in Clapton, Hackney.
+        <p>For the third year, following our successful schools in <a target="_blank" href="https://2018.raceinbritain.org/">2018</a> and <a target="_blank" href="http://raceinbritain.org/2019">2019</a>, this summer <a target="_blank" href="https://www.consented.co.uk/">Consented Youth</a> and the <a href="https://www.raceinbritain.org/#programme">Knowledge is Power Programme</a> will be hosting a three day summer school for young people and educational practitioners from the <b>27th-29th</b> of July at BSix Sixth Form College in Clapton, Hackney.
         </p>
 
         <p>The aim of the summer school is to provide a space for young people to participate in academic discussions through a combination of lectures and workshops. We will critically explore exploitative structures such as capitalism, colonialism and “race”. Additionally, it will aim to situate emerging scientific issues such as climate change, artificial intelligence and Big Data in the current socio-political context.
